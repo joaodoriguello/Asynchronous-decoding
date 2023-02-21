@@ -9,7 +9,7 @@ BG decoder = Block Graph decoder;
 CG decoder = Contracted Graph decoder;
 
 
-The folder "blossom5" contains Edmond's perfect matching algorithm. It must be included in the same folder containing a simulation code in order to be used in the simulation.
+The folder "blossom5" contains Edmond's perfect matching algorithm. It must be included in the same folder containing a simulation code in order to be used by the decoder.
 
 Raw data and reading files are in "Data and reading files". The format for the raw data is (except for PE_terms files)
 
