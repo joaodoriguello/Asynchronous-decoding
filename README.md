@@ -10,6 +10,6 @@ The folder "blossom5" contains Edmond's perfect matching algorithm. It must be i
 
 Raw data and reading files are in "Data and reading files". The format for the raw data is (except for PE_terms files)
 
-# lattice_size   physical_error   success_probability
+lattice_size   physical_error   success_probability
 
 The characters '#' and '!' are markers used to read the file.
