@@ -3,8 +3,11 @@
 All codes and raw data. 
 
 AP decoder = Average Position decoder;
+
 BG decoder = Block Graph decoder;
+
 CG decoder = Contracted Graph decoder;
+
 
 The folder "blossom5" contains Edmond's perfect matching algorithm. It must be included in the same folder containing a simulation code in order to be used in the simulation.
 
